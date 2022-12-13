@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(2, 57, 88);
+}
+
+#cabecera{
+    height: 150px;
+    width: 400px;
+    float: left;
+    position: absolute;
+    top: 124px;
+    left: 12%;
+    border-radius: 8px;
+    background-color: aqua;
+}
+#lateral1{
+    height: 152px;
+    width: 400px;
+    float: left;
+    position: absolute;
+    top: 280px;
+    left: 12%;
+    border-radius: 4px;
+    background-color: aqua;
+}
+#contenido{
+    height: 470px;
+    width: 300px;
+    float: left;
+    position: absolute;
+    top: 124px;
+    left: 34%;
+    border-radius: 4px;
+    background-color: aqua;
+}
+
+ 
